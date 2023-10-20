@@ -12,7 +12,8 @@ graphics, and other features.
 Skills:
 * HTML
 * CSS
-* JAVASCRIPT
+* BOOT STRAB
+* JAVA SCRIPT
 * JAQURY 
 * ANgular
 * Git & GitHub
