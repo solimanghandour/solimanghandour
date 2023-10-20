@@ -1,16 +1,18 @@
 ### Hi there 👋
+### Hi there 👋, my name is Soliman
+#### I am  Front End Developer
+![I am  Front End Developer](https://pbs.twimg.com/profile_images/1715328751733526528/4qKKjYr9_400x400.jpg)
 
-<!--
-**solimanghandour/solimanghandour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a freelance web developer
+who creates, designs, and codes
+websites and web pages that
+include text, audio, video,
+graphics, and other features.
 
-Here are some ideas to get you started:
+Skills: HTML / CSS / JAVASCRIPT / JAQURY / ANgular / Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
