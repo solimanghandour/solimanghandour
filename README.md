@@ -15,7 +15,7 @@ Skills:
 * BOOT STRAB
 * JAVA SCRIPT
 * JAQURY 
-* ANgular
+* React
 * Git & GitHub
 
 - 🔭 I’m currently working on this page. 
